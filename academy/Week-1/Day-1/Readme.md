@@ -1,11 +1,11 @@
 ## HTML - Dasar
 
-Penulisan website harus diawali dan diakhiri dengan tag <code><html> ... </html><code>
-<code><html> ... </html><code>
+Penulisan website harus diawali dan diakhiri dengan tag ```<html> ... </html>```
+```<html> ... </html>```
   
 Struktur penulisan html :
 
-<code>
+```
   <DOCTYPE!>
     <html>
       <head>
@@ -15,6 +15,6 @@ Struktur penulisan html :
         <p>...</p>
       </body>
     </html>
-    </code>
+   ```
   
-  Dalam file html terdapat <code><head>...</head></code> dan <code><body>...</body></code>.
+  Dalam file html terdapat ```<head>...</head>``` dan ```<body>...</body>```.
