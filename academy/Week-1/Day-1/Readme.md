@@ -1,7 +1,9 @@
-## HTML - Dasar
+## HTML - Dasar (1)
 
-Penulisan website harus diawali dan diakhiri dengan tag ```<html> ... </html>```
-```<html> ... </html>```
+Buat file dengan nama bebas ber-ekstensi ```.html```, contoh nama file : ```index.html```
+
+Penulisan website harus diawali dengan tag ```<html>``` dan diakhiri dengan tag
+```</html>```
   
 Struktur penulisan html :
 
